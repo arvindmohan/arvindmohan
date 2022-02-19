@@ -5,8 +5,9 @@
 - 👯 I’m always looking for new collaborations, productive discussions and ideas.
 - 📫 How to reach me: a r v i n d m (at) l a n l. g o v 
 - :books: My published work can be found in [Google Scholar](https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en)  - Feel free to reach out to know more!
-- Most of my codes are not open-source on Github yet as additional approvals are needed from my funding sponsors. Please contact me if you have any questions in this area, I'd be happy to chat.
+- ❗Most of my codes from publications are not open-source on Github (yet) as additional approvals are needed from my funding sponsors/employer. Please contact me if you have any questions in this area, I'd be happy to chat.
 
+Thank you!
 
 <!--
 **arvindmohan/arvindmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
