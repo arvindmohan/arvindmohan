@@ -1,10 +1,10 @@
 ### Hi there - I'm Arvind Mohan 👋
-- :ocean: I’m a scientist at Los Alamos National Laboratory working on deep learning for computational physics, especially turbulence in fluids.
+- :ocean: I’m a scientist at [Los Alamos National Laboratory](https://www.lanl.gov/) working on deep learning for computational physics, especially turbulence in fluids.
 - 🔭 I’m currently working on differentiable programming based surrogate models for Navier-Stokes equations for engineering applications.
 - 🌱 I enjoy programming in Julia and Python
 - 👯 I’m always looking for new collaborations, productive discussions and ideas.
 - 📫 How to reach me: a r v i n d m (at) l a n l. g o v 
-- :books: My published work can be found here: https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en - Feel free to reach out to know more!
+- :books: My published work can be found in [Google Scholar](https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en)  - Feel free to reach out to know more!
 
 
 <!--
