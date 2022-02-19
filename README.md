@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there - I'm Arvind 👋
+- :ocean: I’m a scientist at Los Alamos National Laboratory working on deep learning for computational physics, especially turbulence in fluids.
+
 
 <!--
 **arvindmohan/arvindmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
