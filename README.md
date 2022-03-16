@@ -5,7 +5,7 @@
 - 👯 I’m always looking for new collaborations, productive discussions and ideas.
 - 📫 How to reach me: a r v i n d m (at) l a n l. g o v 
 - :books: My published work can be found in [Google Scholar](https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en)  - Feel free to reach out to know more!
-- ❗Most of my codes from publications are not open-source on Github (yet) as additional approvals are needed from my funding sponsors/employer. Please contact me if you have any questions from my papers, I'd be happy to chat.
+- ❗Several of my codes from papers and other work are not open-source on Github (yet) or published, as additional approvals are needed from LANL. Please contact me if you have any questions about my research, and I'd be happy to chat.
 
 Thank you!
 
