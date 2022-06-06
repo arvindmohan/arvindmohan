@@ -4,7 +4,7 @@
 - 🌱 I enjoy programming in Julia and Python.
 - 👯 I’m always looking for new collaborations, productive discussions and ideas.
 - 📫 How to reach me: a r v i n d m (at) l a n l. g o v 
-- :books: My published work can be found in [Google Scholar](https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en)  - Feel free to reach out to know more!
+- :books: Most of my work can be found in [Google Scholar](https://scholar.google.com/citations?user=kr8XW9oAAAAJ&hl=en)  - Feel free to reach out to know more!
 - ❗Several of my codes from papers and other work are not open-source on Github (yet) or published, as additional approvals are needed from LANL. Please contact me if you have any questions about my research, and I'd be happy to chat.
 
 Thank you!
